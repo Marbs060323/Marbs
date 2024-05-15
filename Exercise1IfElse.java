@@ -3,11 +3,11 @@ public class Exercise1IfElse {
         int count = 9;
 
         if (count > 10) {
-            System.out.println("Count is Greater than 10");
+            System.out.println("Count is Greater than 11");
         }
 
         else {
-            System.out.println("Count is less than 10");
+            System.out.println("Count is less than 11");
         }
     }
 }
